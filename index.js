@@ -6,6 +6,6 @@ function showtest(){
 
 function showtest2(){
   
-        document.getElementById("container2").innerHTML="<div id='message2'>ASIA</div>";
+        document.getElementById("container2").innerHTML="<div id='message2'>EUROPE</div>";
  
 }
